@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Society",
+      "Asian Studies"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ]
+  ],
+  "legacy_uid": "fa1cf9f0-74c1-f25a-ff12-1b2594b5b623",
+  "instructors": {
+    "content": [
+      "51bc62c4-185b-0a99-d78d-5476fbf63688"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "317b35f9-3361-377d-cd39-396bc0379ffa",
+    "website": "17-547-government-and-politics-of-china-fall-2002"
+  },
+  "course_title": "Government and Politics of China",
+  "course_description": "This course analyzes contemporary Chinese politics, both pre-Communist and Communist. It focuses on the process of modernization and political development of Chinese civilization. Graduate students are expected to pursue the subject at greater depth through reading and individual research.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.547",
+  "course_image_thumbnail": {
+    "content": "531f50bc-9080-9e2a-1afa-f14caf606d81",
+    "website": "17-547-government-and-politics-of-china-fall-2002"
+  },
+  "learning_resource_types": [
+    "Exams",
+    "Written Assignments"
+  ],
+  "site_uid": "8e5eab01-526b-41fe-9483-3d9a8e02d0c9",
+  "title": "Course Metadata"
+}
